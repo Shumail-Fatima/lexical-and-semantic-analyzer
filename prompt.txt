@@ -1,0 +1,3 @@
+( nume ) .fjfoi43no = 10 :
+hoop : ( ( nume ) .fjfoi43no = 0 , .fjfoi43no < 10 , .fjfoi43no + 1 )
+

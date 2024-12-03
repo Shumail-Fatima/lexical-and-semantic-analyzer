@@ -1,0 +1,7 @@
+@override
+only string Var = ["ss", "ss"]
+all int a = 55
+string var = sssss\nssss
+string var = "sssss\nssss"
+family double b = 2.5
+package bool c = true
